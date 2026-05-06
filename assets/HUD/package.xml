@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6rdtv2sx">
+  <resources>
+    <component id="kc930" name="HUD Screen.xml" path="/"/>
+    <component id="kc931" name="Joystick.xml" path="/"/>
+    <component id="kc932" name="MarkerButton.xml" path="/"/>
+    <component id="kc934" name="BatteryBar.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

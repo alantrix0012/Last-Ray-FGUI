@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6k33mbrz">
+  <resources>
+    <component id="q7s50" name="Home Panel.xml" path="/" exported="true"/>
+    <image id="kc931" name="Difficulty Button.png" path="/Main Menu/Sprites/Buttons/"/>
+    <image id="kc932" name="Settings Button.png" path="/Main Menu/Sprites/Buttons/"/>
+    <image id="kc933" name="Start Button.png" path="/Main Menu/Sprites/Buttons/"/>
+    <image id="kc934" name="Logo.png" path="/General/"/>
+    <image id="kc935" name="BG.png" path="/General/"/>
+    <component id="kc936" name="Start Button.xml" path="/Main Menu/Buttons/"/>
+    <component id="kc937" name="Difficulty Button.xml" path="/Main Menu/Buttons/"/>
+    <component id="kc938" name="Settings Button.xml" path="/Main Menu/Buttons/"/>
+    <component id="kc939" name="MainMenu PopUp.xml" path="/Main Menu/"/>
+    <component id="kc93n" name="Difficulty PopUp.xml" path="/Difficulty Menu/"/>
+    <image id="kc93p" name="Close Button.png" path="/Difficulty Menu/Sprites/Buttons/"/>
+    <image id="kc93q" name="Difficulty BG.png" path="/Difficulty Menu/Sprites/"/>
+    <image id="kc93r" name="Easy Button.png" path="/Difficulty Menu/Sprites/Buttons/"/>
+    <image id="kc93s" name="Hard Button.png" path="/Difficulty Menu/Sprites/Buttons/"/>
+    <image id="kc93t" name="Header.png" path="/Difficulty Menu/Sprites/"/>
+    <image id="kc93u" name="Medium Button.png" path="/Difficulty Menu/Sprites/Buttons/"/>
+    <component id="kc93v" name="Easy Button.xml" path="/Difficulty Menu/Buttons/"/>
+    <component id="kc93w" name="Medium Button.xml" path="/Difficulty Menu/Buttons/"/>
+    <component id="kc93x" name="Hard Button.xml" path="/Difficulty Menu/Buttons/"/>
+    <component id="kc93y" name="Close Button.xml" path="/Difficulty Menu/Buttons/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

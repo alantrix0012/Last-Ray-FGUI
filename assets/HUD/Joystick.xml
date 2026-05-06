@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,200">
+  <displayList>
+    <graph id="n0_kc93" name="Background" xy="0,0" size="200,200" type="rect" lineSize="0" lineColor="#80000000" fillColor="#80ffffff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_kc93" name="Knob" xy="60,60" size="80,80" type="rect" lineSize="0" fillColor="#ff666666"/>
+  </displayList>
+</component>

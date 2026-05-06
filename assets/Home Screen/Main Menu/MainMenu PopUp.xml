@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="442,419">
+  <displayList>
+    <component id="n2_kc93" name="Start Button" src="kc936" fileName="Main Menu/Buttons/Start Button.xml" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_kc93" name="Difficulty Button" src="kc937" fileName="Main Menu/Buttons/Difficulty Button.xml" xy="0,140">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_kc93" name="Settings Button" src="kc938" fileName="Main Menu/Buttons/Settings Button.xml" xy="0,280">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

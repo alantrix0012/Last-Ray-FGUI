@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="6rdtv2sx">
   <resources>
-    <component id="kc930" name="HUD Screen.xml" path="/"/>
+    <component id="kc930" name="HUD Screen.xml" path="/" exported="true"/>
     <component id="kc931" name="Joystick.xml" path="/"/>
     <component id="kc932" name="MarkerButton.xml" path="/"/>
-    <component id="kc934" name="BatteryBar.xml" path="/"/>
+    <component id="6j795" name="Pause Button.xml" path="/"/>
+    <image id="6j796" name="Slider BG.png" path="/Sprites/"/>
+    <image id="6j797" name="Slider Fill.png" path="/Sprites/" scale="tile"/>
+    <image id="6j798" name="Pause Button.png" path="/Sprites/"/>
+    <component id="6j79a" name="BatteryBar.xml" path="/"/>
+    <image id="6j79b" name="Joystick BG.png" path="/Sprites/"/>
+    <image id="6j79c" name="Joystick Knob.png" path="/Sprites/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

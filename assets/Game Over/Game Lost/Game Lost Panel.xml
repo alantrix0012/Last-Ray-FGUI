@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n0_6j79" name="BG" src="6j794" fileName="Game Lost/Sprites/Game Over BG.png" xy="0,0" size="1920,1080" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_6j79" name="Header Txt" src="6j797" fileName="Game Lost/Sprites/Game Lost Text.png" xy="672,250">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n2_6j79" name="MainMenuButton" src="6j799" fileName="Game Lost/Buttons/Main Menu Button.xml" xy="752,750">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_6j79" name="PlayAgainButton" src="6j79a" fileName="Game Lost/Buttons/Play Again Button.xml" xy="741,600">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

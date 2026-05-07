@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="200,200">
   <displayList>
-    <graph id="n0_kc93" name="Background" xy="0,0" size="200,200" type="rect" lineSize="0" lineColor="#80000000" fillColor="#80ffffff">
+    <image id="n2_6j79" name="Background" src="6j79b" fileName="Sprites/Joystick BG.png" xy="0,3" size="200,194" aspect="true" alpha="0.554">
       <relation target="" sidePair="width-width,height-height"/>
-    </graph>
-    <graph id="n1_kc93" name="Knob" xy="60,60" size="80,80" type="rect" lineSize="0" fillColor="#ff666666"/>
+    </image>
+    <image id="n3_6j79" name="Knob" src="6j79c" fileName="Sprites/Joystick Knob.png" xy="65,65" size="70,70" aspect="true">
+      <relation target="n2_6j79" sidePair="width-width%,height-height%,center-center,middle-middle"/>
+    </image>
   </displayList>
 </component>

@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1920,1080">
   <displayList>
-    <graph id="n7_kc93" name="LookArea" xy="0,0" size="1920,1080" type="rect" fillColor="#00ffffff"/>
-    <component id="n0_kc93" name="LeftJoystick" src="kc931" fileName="Joystick.xml" xy="134,761">
-      <relation target="" sidePair="center-center,middle-middle"/>
+    <graph id="n7_kc93" name="LookArea" xy="0,0" size="1920,1080" type="rect" lineSize="0" fillColor="#00ffffff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_kc93" name="LeftJoystick" src="kc931" fileName="Joystick.xml" xy="107,677" size="320,320" aspect="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
     </component>
     <component id="n2_kc93" name="MarkerButton" src="kc932" fileName="MarkerButton.xml" xy="1698,873" size="100,100">
-      <relation target="" sidePair="center-center,middle-middle"/>
+      <relation target="" sidePair="center-center%,middle-middle%"/>
     </component>
-    <loader id="n3_kc93" name="Minimap" xy="1654,53" size="200,200">
-      <relation target="" sidePair="center-center,middle-middle"/>
+    <loader id="n3_kc93" name="Minimap" xy="1580,32" size="300,300" fill="scaleFree">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
     </loader>
-    <component id="n5_kc93" name="BatteryBar" src="kc934" fileName="BatteryBar.xml" xy="760,63" size="400,40">
-      <relation target="" sidePair="center-center,middle-middle"/>
-      <ProgressBar value="50" max="100"/>
-    </component>
     <text id="n6_kc93" name="MarkerCount" xy="891,135" size="137,50" fontSize="12" autoSize="none" text=""/>
-    <component id="n8_kc93" name="n8" pkg="6rdtv2sx" src="kc935" fileName="Pause Button.xml" xy="120,87"/>
-    <component id="n9_kc93" name="n9" pkg="6rdtv2sx" src="kc935" fileName="Pause Button.xml" xy="186,195"/>
+    <component id="n10_6j79" name="PauseButton" src="6j795" fileName="Pause Button.xml" xy="114,61" size="113,89" aspect="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </component>
+    <component id="n12_6j79" name="BatteryBar" src="6j79a" fileName="BatteryBar.xml" xy="631,44">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+      <ProgressBar value="100" max="100"/>
+    </component>
   </displayList>
 </component>

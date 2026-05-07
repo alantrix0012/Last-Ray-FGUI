@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ocfn5tc6">
+  <resources>
+    <image id="6j791" name="Main Menu Btn.png" path="/Game Won/Sprites/"/>
+    <image id="6j792" name="Play Again Btn.png" path="/Game Won/Sprites/"/>
+    <image id="6j793" name="Game Won Text.png" path="/Game Won/Sprites/"/>
+    <image id="6j794" name="Game Over BG.png" path="/Game Lost/Sprites/" scale="9grid" scale9grid="620,320,432,301"/>
+    <image id="6j795" name="Main Menu Button.png" path="/Game Lost/Sprites/"/>
+    <image id="6j796" name="Play Again Button.png" path="/Game Lost/Sprites/"/>
+    <image id="6j797" name="Game Lost Text.png" path="/Game Lost/Sprites/"/>
+    <component id="6j798" name="Game Lost Panel.xml" path="/Game Lost/"/>
+    <component id="6j799" name="Main Menu Button.xml" path="/Game Lost/Buttons/"/>
+    <component id="6j79a" name="Play Again Button.xml" path="/Game Lost/Buttons/"/>
+    <component id="6j79b" name="Game Won Panel.xml" path="/Game Won/"/>
+    <component id="6j79c" name="Play Again Button.xml" path="/Game Won/Buttons/"/>
+    <component id="6j79d" name="Main Menu Button.xml" path="/Game Won/Buttons/"/>
+    <image id="6j79e" name="Game Won BG.png" path="/Game Won/Sprites/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n2_6j79" name="BG" src="6j79e" fileName="Game Won/Sprites/Game Won BG.png" xy="0,0" size="1920,1080" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_6j79" name="Header Txt" src="6j793" fileName="Game Won/Sprites/Game Won Text.png" xy="638,310">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n4_6j79" name="PlayAgainButton" src="6j79c" fileName="Game Won/Buttons/Play Again Button.xml" xy="733,600">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n5_6j79" name="MainMenuButton" src="6j79d" fileName="Game Won/Buttons/Main Menu Button.xml" xy="734,750">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

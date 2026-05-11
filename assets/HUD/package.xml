@@ -11,6 +11,15 @@
     <component id="6j79a" name="BatteryBar.xml" path="/"/>
     <image id="6j79b" name="Joystick BG.png" path="/Sprites/"/>
     <image id="6j79c" name="Joystick Knob.png" path="/Sprites/"/>
+    <image id="6j79d" name="Home Btn.png" path="/Pause/Sprites/"/>
+    <image id="6j79e" name="Pause PopUp.png" path="/Pause/Sprites/"/>
+    <image id="6j79f" name="Paused Header.png" path="/Pause/Sprites/"/>
+    <image id="6j79g" name="Restart Btn.png" path="/Pause/Sprites/"/>
+    <image id="6j79h" name="Resume Btn.png" path="/Pause/Sprites/"/>
+    <component id="6j79i" name="Pause PopUp.xml" path="/Pause/"/>
+    <component id="6j79j" name="Home Button.xml" path="/Pause/Buttons/"/>
+    <component id="6j79k" name="Resume Button.xml" path="/Pause/Buttons/"/>
+    <component id="6j79l" name="Restart Button.xml" path="/Pause/Buttons/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

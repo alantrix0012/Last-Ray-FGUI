@@ -4,15 +4,16 @@
     <image id="n0_kc93" name="Bg" src="kc935" fileName="General/BG.png" xy="0,0" size="1921,1080" aspect="true">
       <relation target="" sidePair="width-width%,height-height%,center-center,middle-middle"/>
     </image>
-    <image id="n1_kc93" name="LOGO" src="kc934" fileName="General/Logo.png" xy="147,356">
+    <image id="n1_kc93" name="LOGO" src="kc934" fileName="General/Logo.png" xy="147,313" size="476,453" aspect="true">
       <relation target="" sidePair="middle-middle,left-left"/>
     </image>
-    <component id="n2_kc93" name="MainMenu PopUp" src="kc939" fileName="Main Menu/MainMenu PopUp.xml" xy="1230,330">
+    <component id="n2_kc93" name="MainMenuPopUp" src="kc939" fileName="Main Menu/MainMenu PopUp.xml" xy="1230,330">
       <relation target="" sidePair="middle-middle,right-right%"/>
     </component>
-    <component id="n6_kc93" name="Difficulty PopUp" src="kc93n" fileName="Difficulty Menu/Difficulty PopUp.xml" xy="800,256">
+    <component id="n6_kc93" name="DifficultyPopUp" src="kc93n" fileName="Difficulty Menu/Difficulty PopUp.xml" xy="800,256">
       <relation target="" sidePair="middle-middle,left-right%"/>
     </component>
+    <component id="n8_6j79" name="SettingsPopUp" src="6j7918" fileName="Settings/Components/Settings PopUp.xml" xy="895,267"/>
   </displayList>
   <transition name="ShowDifficulty">
     <item time="0" type="Alpha" target="n2_kc93" tween="true" startValue="1" endValue="0" duration="12"/>

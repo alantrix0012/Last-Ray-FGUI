@@ -4,7 +4,7 @@
     <graph id="n7_kc93" name="LookArea" xy="0,0" size="1920,1080" type="rect" lineSize="0" fillColor="#00ffffff">
       <relation target="" sidePair="width-width,height-height"/>
     </graph>
-    <component id="n0_kc93" name="LeftJoystick" src="kc931" fileName="Joystick.xml" xy="107,677" size="320,320" aspect="true">
+    <component id="n0_kc93" name="LeftJoystick" src="kc931" fileName="Joystick.xml" xy="100,660" size="320,320" aspect="true">
       <relation target="" sidePair="center-center%,middle-middle%"/>
     </component>
     <component id="n2_kc93" name="MarkerButton" src="kc932" fileName="MarkerButton.xml" xy="1698,873" size="100,100">
@@ -20,6 +20,9 @@
     <component id="n12_6j79" name="BatteryBar" src="6j79a" fileName="BatteryBar.xml" xy="631,44">
       <relation target="" sidePair="center-center%,middle-middle%"/>
       <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n13_6j79" name="PausePopup" src="6j79i" fileName="Pause/Pause PopUp.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
     </component>
   </displayList>
 </component>

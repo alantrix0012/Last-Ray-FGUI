@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <graph id="n0_6j79" name="Tint" xy="0,0" size="1920,1080" type="rect" lineSize="0" fillColor="#80000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n1_6j79" name="BG" src="6j79e" fileName="Pause/Sprites/Pause PopUp.png" xy="702,319">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n2_6j79" name="Header" src="6j79f" fileName="Pause/Sprites/Paused Header.png" xy="824,351">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n3_6j79" name="ResumeButton" src="6j79k" fileName="Pause/Buttons/Resume Button.xml" xy="765,450">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_6j79" name="RestartButton" src="6j79l" fileName="Pause/Buttons/Restart Button.xml" xy="765,550">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n5_6j79" name="HomeButton" src="6j79j" fileName="Pause/Buttons/Home Button.xml" xy="765,650">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

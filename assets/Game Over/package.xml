@@ -8,10 +8,10 @@
     <image id="6j795" name="Main Menu Button.png" path="/Game Lost/Sprites/"/>
     <image id="6j796" name="Play Again Button.png" path="/Game Lost/Sprites/"/>
     <image id="6j797" name="Game Lost Text.png" path="/Game Lost/Sprites/"/>
-    <component id="6j798" name="Game Lost Panel.xml" path="/Game Lost/"/>
+    <component id="6j798" name="Game Lost Panel.xml" path="/Game Lost/" exported="true"/>
     <component id="6j799" name="Main Menu Button.xml" path="/Game Lost/Buttons/"/>
     <component id="6j79a" name="Play Again Button.xml" path="/Game Lost/Buttons/"/>
-    <component id="6j79b" name="Game Won Panel.xml" path="/Game Won/"/>
+    <component id="6j79b" name="Game Won Panel.xml" path="/Game Won/" exported="true"/>
     <component id="6j79c" name="Play Again Button.xml" path="/Game Won/Buttons/"/>
     <component id="6j79d" name="Main Menu Button.xml" path="/Game Won/Buttons/"/>
     <image id="6j79e" name="Game Won BG.png" path="/Game Won/Sprites/"/>

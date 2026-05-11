@@ -22,6 +22,20 @@
     <component id="kc93w" name="Medium Button.xml" path="/Difficulty Menu/Buttons/"/>
     <component id="kc93x" name="Hard Button.xml" path="/Difficulty Menu/Buttons/"/>
     <component id="kc93y" name="Close Button.xml" path="/Difficulty Menu/Buttons/"/>
+    <image id="6j79z" name="BGM Icon.png" path="/Settings/Sprites/"/>
+    <image id="6j7910" name="BGM Txt.png" path="/Settings/Sprites/"/>
+    <image id="6j7911" name="Fill.png" path="/Settings/Sprites/" scale="tile" scale9grid="144,10,288,20"/>
+    <image id="6j7912" name="Main Menu Button.png" path="/Settings/Sprites/"/>
+    <image id="6j7913" name="Settings Border.png" path="/Settings/Sprites/"/>
+    <image id="6j7914" name="SFX Icon.png" path="/Settings/Sprites/"/>
+    <image id="6j7915" name="SFX Txt.png" path="/Settings/Sprites/"/>
+    <image id="6j7916" name="Slider BG.png" path="/Settings/Sprites/"/>
+    <image id="6j7917" name="Slider Knob.png" path="/Settings/Sprites/"/>
+    <component id="6j7918" name="Settings PopUp.xml" path="/Settings/Components/"/>
+    <image id="6j7919" name="Settings Txt.png" path="/Settings/Sprites/"/>
+    <component id="6j791a" name="Main Menu PopUp.xml" path="/Settings/Components/"/>
+    <component id="6j791b" name="Volume Slider_grip.xml" path="/Settings/Components/"/>
+    <component id="6j791c" name="Volume Slider.xml" path="/Settings/Components/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

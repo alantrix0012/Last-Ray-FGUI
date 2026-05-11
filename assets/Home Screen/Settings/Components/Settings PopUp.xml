@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="865,545">
+  <displayList>
+    <image id="n7_6j79" name="BG" src="6j7913" fileName="Settings/Sprites/Settings Border.png" xy="0,0"/>
+    <image id="n8_6j79" name="Settings Header" src="6j7919" fileName="Settings/Sprites/Settings Txt.png" xy="291,31"/>
+    <image id="n9_6j79" name="SFX Icon" src="6j7914" fileName="Settings/Sprites/SFX Icon.png" xy="79,206"/>
+    <image id="n10_6j79" name="SFX Header" src="6j7915" fileName="Settings/Sprites/SFX Txt.png" xy="79,151"/>
+    <component id="n11_6j79" name="SFXSlider" src="6j791c" fileName="Settings/Components/Volume Slider.xml" xy="160,198">
+      <Slider value="50" max="100"/>
+    </component>
+    <image id="n12_6j79" name="BGM Header" src="6j7910" fileName="Settings/Sprites/BGM Txt.png" xy="79,325"/>
+    <image id="n13_6j79" name="BGM Icon" src="6j79z" fileName="Settings/Sprites/BGM Icon.png" xy="79,388"/>
+    <component id="n14_6j79" name="MusicSlider" src="6j791c" fileName="Settings/Components/Volume Slider.xml" xy="160,378">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n15_6j79" name="CloseButton" src="kc93y" fileName="Difficulty Menu/Buttons/Close Button.xml" xy="400,506">
+      <relation target="" sidePair="middle-middle,bottomext-bottom"/>
+    </component>
+  </displayList>
+</component>

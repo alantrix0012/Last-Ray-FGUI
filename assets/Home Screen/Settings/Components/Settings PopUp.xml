@@ -13,7 +13,7 @@
     <component id="n14_6j79" name="MusicSlider" src="6j791c" fileName="Settings/Components/Volume Slider.xml" xy="160,378">
       <Slider value="50" max="100"/>
     </component>
-    <component id="n15_6j79" name="CloseButton" src="kc93y" fileName="Difficulty Menu/Buttons/Close Button.xml" xy="400,506">
+    <component id="n15_6j79" name="CloseButton" src="kc93y" fileName="Difficulty Menu/Buttons/Close Button.xml" xy="392,499" size="80,80" aspect="true">
       <relation target="" sidePair="middle-middle,bottomext-bottom"/>
     </component>
   </displayList>

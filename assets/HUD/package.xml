@@ -3,7 +3,6 @@
   <resources>
     <component id="kc930" name="HUD Screen.xml" path="/" exported="true"/>
     <component id="kc931" name="Joystick.xml" path="/"/>
-    <component id="kc932" name="MarkerButton.xml" path="/"/>
     <component id="6j795" name="Pause Button.xml" path="/"/>
     <image id="6j796" name="Slider BG.png" path="/Sprites/"/>
     <image id="6j797" name="Slider Fill.png" path="/Sprites/" scale="tile"/>
@@ -20,6 +19,11 @@
     <component id="6j79j" name="Home Button.xml" path="/Pause/Buttons/"/>
     <component id="6j79k" name="Resume Button.xml" path="/Pause/Buttons/"/>
     <component id="6j79l" name="Restart Button.xml" path="/Pause/Buttons/"/>
+    <image id="6j79m" name="Marker Button.png" path="/"/>
+    <image id="6j79n" name="Jump Button.png" path="/"/>
+    <component id="6j79o" name="Marker Button.xml" path="/"/>
+    <component id="6j79p" name="Jump Button.xml" path="/"/>
+    <font id="6j79q" name="PixelifySans-Regular.ttf" path="/" renderMode="" samplePointSize="16"/>
   </resources>
   <publish name=""/>
 </packageDescription>

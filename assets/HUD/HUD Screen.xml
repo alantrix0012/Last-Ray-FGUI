@@ -7,13 +7,12 @@
     <component id="n0_kc93" name="LeftJoystick" src="kc931" fileName="Joystick.xml" xy="100,660" size="320,320" aspect="true">
       <relation target="" sidePair="center-center%,middle-middle%"/>
     </component>
-    <component id="n2_kc93" name="MarkerButton" src="kc932" fileName="MarkerButton.xml" xy="1698,873" size="100,100">
-      <relation target="" sidePair="center-center%,middle-middle%"/>
-    </component>
     <loader id="n3_kc93" name="Minimap" xy="1580,32" size="300,300" fill="scaleFree">
       <relation target="" sidePair="center-center%,middle-middle%"/>
     </loader>
-    <text id="n6_kc93" name="MarkerCount" xy="891,135" size="137,50" fontSize="12" autoSize="none" text=""/>
+    <text id="n6_kc93" name="MarkerCount" xy="713,154" size="493,66" font="ui://6rdtv2sx6j79q" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="Marker Count : 10">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </text>
     <component id="n10_6j79" name="PauseButton" src="6j795" fileName="Pause Button.xml" xy="114,61" size="113,89" aspect="true">
       <relation target="" sidePair="center-center%,middle-middle%"/>
     </component>
@@ -23,6 +22,12 @@
     </component>
     <component id="n13_6j79" name="PausePopup" src="6j79i" fileName="Pause/Pause PopUp.xml" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n14_6j79" name="MarkerButton" src="6j79o" fileName="Marker Button.xml" xy="1500,830" size="122,110" aspect="true">
+      <relation target="" sidePair="right-right%,bottom-bottom%"/>
+    </component>
+    <component id="n15_6j79" name="JumpButton" src="6j79p" fileName="Jump Button.xml" xy="1670,660" size="122,110" aspect="true">
+      <relation target="" sidePair="right-right%,bottom-bottom%"/>
     </component>
   </displayList>
 </component>
